@@ -1,0 +1,4 @@
+secrets.json
+Pipfile
+Pipfile.lock
+*.log
